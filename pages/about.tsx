@@ -20,7 +20,6 @@ const about = () => {
     </>
   );
 };
-
 about.getLayout = function getLayout(page: JSX.Element) {
   return (
     <MainLayout>
